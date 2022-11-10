@@ -1,5 +1,10 @@
 # css-sign-up
 Sign Up Page 
 
+_Used HTML and CSS to build this project_
+_IMG: coolbackground.io
 
-Changing at 10:14
+*** Not Responsive
+*** No form Validation
+*** No auth
+
